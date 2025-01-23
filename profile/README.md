@@ -2,7 +2,7 @@
 
 |![image](https://github.com/user-attachments/assets/b6437086-9ab6-437f-99ba-6cba64f02157)|[![download-now](https://github.com/user-attachments/assets/22657e67-9d2d-46af-a41a-5d365d2ddc1f)](https://spotify.heyapks.com/)  |
 |:-------------------------------------------------:|-----------------------|
-| **Platform**: Android 7.0+/IOS/PC                     | **Versi**: 9.0.12.    |
+| **Platform**: Android 7.0+/IOS/PC                     | **Versi**: 9.0.12.567 🆕🎉🎉    |
 | **Ukuran**: 103.39 MB                                | ⭐️⭐️⭐️⭐️⭐️ (5/5) |
 | **Pembaruan Terbaru**: June/2025                    
 
